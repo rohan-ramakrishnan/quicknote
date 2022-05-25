@@ -1,4 +1,4 @@
-./node_modules
-./secrets
-./utils
-./.env
+node_modules
+secrets
+utils
+.env
